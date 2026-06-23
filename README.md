@@ -4,6 +4,7 @@ Published in *IEEE Transactions on Circuits and Systems for Video Technology*
 (TCSVT'26).
 
 [Paper](https://ieeexplore.ieee.org/document/11552730)
+<img width="1118" height="837" alt="image" src="https://github.com/user-attachments/assets/146f20e2-18b8-4be4-a3b0-a29c1818d1e4" />
 
 ## Project Structure
 
