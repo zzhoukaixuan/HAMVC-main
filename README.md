@@ -1,8 +1,4 @@
-# HAMVC
-
-Official PyTorch implementation of:
-
-**Beyond One-Layer Decision: Hierarchical Multi-view Clustering with Progressive Cross-Layer Fusion**
+# Beyond One-Layer Decision: Hierarchical Multi-view Clustering with Progressive Cross-Layer Fusion
 
 Published in *IEEE Transactions on Circuits and Systems for Video Technology*
 (TCSVT'26).
